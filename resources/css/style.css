@@ -4,7 +4,7 @@ html {
 }
 
 #main-header {
-  background-image : url(https://rileygauchier.github.io/Broadway_Design/resources/images/the-flatiron-building.png);
+  background-image : url("../images/the-flatiron-building.png");
   background-color : dimgray;
   color : white;
   width : 400px;
@@ -19,7 +19,7 @@ html {
 }
 
 .sub-header {
-  background-image : url(../images/the-flatiron-building.png);
+  background-image : url("../images/the-flatiron-building.png");
   background-color : dimgray;
   color : white;
 }
